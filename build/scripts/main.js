@@ -1,0 +1,1 @@
+let x=10,y=20;function soma(o,n){return o+n}function divisao(o,n){return n/o}console.log(soma(x,y)),console.log(divisao(x,y));
